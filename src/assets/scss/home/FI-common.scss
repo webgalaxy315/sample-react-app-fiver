@@ -1,0 +1,31 @@
+.FI-center {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.FI-right {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+    justify-items: center;
+}
+
+.FI-left {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: start;
+    justify-items: center;
+}
+
+.FI-between {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+}

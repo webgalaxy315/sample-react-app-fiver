@@ -1,0 +1,67 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fontsource/roboto": "^4.5.2",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "@mui/styled-engine-sc": "^5.3.0",
+    "@reduxjs/toolkit": "^1.7.2",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "decimal.js-light": "^2.5.1",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.13.1",
+    "react": "^17.0.2",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "5.0.0",
+    "react-slideshow-image": "^3.7.3",
+    "redux": "^4.1.2",
+    "redux-debounced": "^0.5.0",
+    "sass": "1.26.8",
+    "sass-loader": "^12.4.0",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "react-app-rewire-aliases": "^0.2.0",
+    "react-app-rewire-postcss": "^3.0.2",
+    "react-app-rewire-sass-rule": "^2.1.1",
+    "react-app-rewired": "^2.1.6",
+    "sass-loader": "^8.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
